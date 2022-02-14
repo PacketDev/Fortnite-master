@@ -10,3 +10,6 @@ Invisible Character
 Not being able to equip cosmetics
 <br>
 Game randomly crashing
+
+# Credits
+Mcp by Aurora Modified by Packet
